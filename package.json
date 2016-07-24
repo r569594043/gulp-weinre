@@ -1,0 +1,21 @@
+{
+  "name": "gulp-weinre",
+  "version": "0.0.4",
+  "description": "using gulp run weinre task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weinre",
+    "gulp"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "nopt": "^3.0.1",
+    "underscore": "^1.7.0",
+    "weinre": "^2.0.0-pre-HZ79PDUK"
+  }
+}
