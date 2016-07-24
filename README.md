@@ -1,5 +1,8 @@
 # gulp-weinre
 
+## Author
+[Isken Huang](https://github.com/IskenHuang)
+
 ## options
 | name | description | default |
 | --- | --- | --- |
